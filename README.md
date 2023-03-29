@@ -1,10 +1,10 @@
 # Gestion-Film 
-## Version 1
+### Version 1
 
 ## par ETU001592-ETU001663-ETU001618-ETU001545 
 
 ## Liste des fonctionnalités
-###Simple: 
+### Simple: 
 - Insertion de films/scène/role/actions
 - Liste de films par realisateur
 - Liste de plateaux
@@ -16,7 +16,7 @@
   - la liste des scenes non validées / validés
   - la liste des plannings
 
-###Complexe
+### Complexe
 - Insertion impossible de planning dans le cas où l'acteur voulu n'est pas disponible le jour du planning
 - Possibilité d'insérer plusieurs scènes dans un même planning
 - Générer automatiquement 2 dates lors de l'insertion d'un planning pour une scène : dates qui ne sont pas dans la liste des indisponibilités des plateaux
