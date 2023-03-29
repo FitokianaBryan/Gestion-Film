@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="a5c1c18e-93ee-4277-bedf-61825a0d6203" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/aina/spring_mvc/model" />
+    <reUseDbSnapshotConnections>
+      <dbConnection id="4c0b2d8a-1be2-42be-9aa9-013fb8cd6d4d" />
+      <dbConnection id="a5c1c18e-93ee-4277-bedf-61825a0d6203" />
+    </reUseDbSnapshotConnections>
+    <option name="newEntityIdStrategy" />
+    <option name="reIgnoreSlowDbConnections">
+      <ignoreDs id="4c0b2d8a-1be2-42be-9aa9-013fb8cd6d4d" />
+      <ignoreDs id="a5c1c18e-93ee-4277-bedf-61825a0d6203" />
+    </option>
+  </component>
+</project>
